@@ -1,2 +1,2 @@
-# JS_By_Chai_Aur_Code
+# Learning JS_By_Chai_Aur_Code
 js repo
